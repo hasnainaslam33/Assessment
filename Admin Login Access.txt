@@ -1,0 +1,11 @@
+Admin Login Access
+
+Username : admin
+
+Password: admin@123
+
+
+
+API Link Access
+
+http://localhost:8080/Assessment/wp-json/wp/v2/projects
